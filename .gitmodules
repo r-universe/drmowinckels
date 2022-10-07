@@ -18,64 +18,9 @@
 	url = https://github.com/ggseg/ggsegExtra
 	shallow = true
 	registered = true
-[submodule "ggsegYeo2011"]
-	path = ggsegYeo2011
-	url = https://github.com/ggseg/ggsegYeo2011
-	shallow = true
-	registered = true
-[submodule "ggsegSchaefer"]
-	path = ggsegSchaefer
-	url = https://github.com/ggseg/ggsegSchaefer
-	shallow = true
-	registered = true
-[submodule "ggsegGlasser"]
-	path = ggsegGlasser
-	url = https://github.com/ggseg/ggsegGlasser
-	shallow = true
-	registered = true
-[submodule "ggsegDesterieux"]
-	path = ggsegDesterieux
-	url = https://github.com/ggseg/ggsegDesterieux
-	shallow = true
-	registered = true
-[submodule "ggsegDefaultExtra"]
-	path = ggsegDefaultExtra
-	url = https://github.com/ggseg/ggsegDefaultExtra
-	shallow = true
-	registered = true
-[submodule "ggsegChen"]
-	path = ggsegChen
-	url = https://github.com/ggseg/ggsegChen
-	shallow = true
-	registered = true
-[submodule "ggsegTracula"]
-	path = ggsegTracula
-	url = https://github.com/ggseg/ggsegTracula
-	shallow = true
-	registered = true
-[submodule "ggsegDKT"]
-	path = ggsegDKT
-	url = https://github.com/ggseg/ggsegDKT
-	shallow = true
-	registered = true
-[submodule "ggsegJHU"]
-	path = ggsegJHU
-	url = https://github.com/ggseg/ggsegJHU
-	shallow = true
-	registered = true
-[submodule "ggsegICBM"]
-	path = ggsegICBM
-	url = https://github.com/ggseg/ggsegICBM
-	shallow = true
-	registered = true
-[submodule "ggsegHO"]
-	path = ggsegHO
-	url = https://github.com/ggseg/ggsegHO
-	shallow = true
-	registered = true
 [submodule "uiothemes"]
 	path = uiothemes
-	url = https://github.com/Athanasiamo/uiothemes
+	url = https://github.com/drmowinckels/uiothemes
 	shallow = true
 	registered = true
 [submodule "nettskjemar"]
@@ -85,6 +30,66 @@
 	registered = true
 [submodule "colorhex"]
 	path = colorhex
-	url = https://github.com/Athanasiamo/colorhex
+	url = https://github.com/drmowinckels/colorhex
 	shallow = true
 	registered = true
+[submodule "tidyquintro"]
+	path = tidyquintro
+	url = https://github.com/drmowinckels/tidyquintro
+	shallow = true
+	registered = true
+[submodule "ggsegChen"]
+	path = ggsegChen
+	url = https://github.com/ggseg/ggsegChen
+	shallow = true
+	registered = false
+[submodule "ggsegDKT"]
+	path = ggsegDKT
+	url = https://github.com/ggseg/ggsegDKT
+	shallow = true
+	registered = false
+[submodule "ggsegDefaultExtra"]
+	path = ggsegDefaultExtra
+	url = https://github.com/ggseg/ggsegDefaultExtra
+	shallow = true
+	registered = false
+[submodule "ggsegDesterieux"]
+	path = ggsegDesterieux
+	url = https://github.com/ggseg/ggsegDesterieux
+	shallow = true
+	registered = false
+[submodule "ggsegGlasser"]
+	path = ggsegGlasser
+	url = https://github.com/ggseg/ggsegGlasser
+	shallow = true
+	registered = false
+[submodule "ggsegHO"]
+	path = ggsegHO
+	url = https://github.com/ggseg/ggsegHO
+	shallow = true
+	registered = false
+[submodule "ggsegICBM"]
+	path = ggsegICBM
+	url = https://github.com/ggseg/ggsegICBM
+	shallow = true
+	registered = false
+[submodule "ggsegJHU"]
+	path = ggsegJHU
+	url = https://github.com/ggseg/ggsegJHU
+	shallow = true
+	registered = false
+[submodule "ggsegSchaefer"]
+	path = ggsegSchaefer
+	url = https://github.com/ggseg/ggsegSchaefer
+	shallow = true
+	registered = false
+[submodule "ggsegTracula"]
+	path = ggsegTracula
+	url = https://github.com/ggseg/ggsegTracula
+	shallow = true
+	registered = false
+[submodule "ggsegYeo2011"]
+	path = ggsegYeo2011
+	url = https://github.com/ggseg/ggsegYeo2011
+	shallow = true
+	registered = false
