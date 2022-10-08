@@ -490,17 +490,5 @@
     "url": "https://github.com/ggseg/ggsegYeo2011",
     "via": ["ggsegSchaefer", "ggsegExtra"],
     "from": "ggsegSchaefer"
-  },
-  {
-    "package": "gradethis",
-    "url": "https://github.com/rstudio-education/gradethis",
-    "via": ["tidyquintro"],
-    "from": "tidyquintro"
-  },
-  {
-    "package": "learnr",
-    "url": "https://github.com/rstudio/learnr",
-    "via": ["tidyquintro", "gradethis"],
-    "from": "tidyquintro"
   }
 ]

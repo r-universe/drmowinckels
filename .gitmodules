@@ -93,13 +93,3 @@
 	url = https://github.com/ggseg/ggsegYeo2011
 	shallow = true
 	registered = false
-[submodule "gradethis"]
-	path = gradethis
-	url = https://github.com/rstudio-education/gradethis
-	shallow = true
-	registered = false
-[submodule "learnr"]
-	path = learnr
-	url = https://github.com/rstudio/learnr
-	shallow = true
-	registered = false
