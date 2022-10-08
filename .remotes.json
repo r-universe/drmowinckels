@@ -184,5 +184,17 @@
     "url": "https://github.com/ggseg/ggsegYeo2011",
     "via": ["ggsegExtra"],
     "from": "ggsegExtra"
+  },
+  {
+    "package": "gradethis",
+    "url": "https://github.com/rstudio/gradethis",
+    "via": ["tidyquintro"],
+    "from": "tidyquintro"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["tidyquintro", "gradethis"],
+    "from": "tidyquintro"
   }
 ]
