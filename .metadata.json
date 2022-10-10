@@ -1,16 +1,5 @@
 [
   {
-    "package": "ggseg",
-    "oncran": true
-  },
-  {
-    "package": "ggseg3d",
-    "oncran": true
-  },
-  {
-    "package": "ggsegExtra"
-  },
-  {
     "package": "uiothemes"
   },
   {
