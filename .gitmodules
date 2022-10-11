@@ -8,11 +8,6 @@
 	url = https://github.com/drmowinckels/uiothemes
 	shallow = true
 	registered = true
-[submodule "nettskjemar"]
-	path = nettskjemar
-	url = https://github.com/LCBC-UiO/nettskjemar
-	shallow = true
-	registered = true
 [submodule "colorhex"]
 	path = colorhex
 	url = https://github.com/drmowinckels/colorhex

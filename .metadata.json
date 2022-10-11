@@ -3,10 +3,6 @@
     "package": "uiothemes"
   },
   {
-    "package": "nettskjemar",
-    "oncran": true
-  },
-  {
     "package": "colorhex",
     "oncran": true
   },
