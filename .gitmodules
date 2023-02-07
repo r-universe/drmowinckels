@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/drmowinckels/universe
+	url = https://github.com/drmowinckels/drmowinckels.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "uiothemes"]
