@@ -2,15 +2,9 @@
 	path = .registry
 	url = https://github.com/drmowinckels/drmowinckels.r-universe.dev
 	branch = HEAD
-[submodule "uiothemes"]
-	path = uiothemes
-	url = https://github.com/drmowinckels/uiothemes
 [submodule "colorhex"]
 	path = colorhex
 	url = https://github.com/drmowinckels/colorhex
-[submodule "tidyquintro"]
-	path = tidyquintro
-	url = https://github.com/drmowinckels/tidyquintro
 [submodule "gradethis"]
 	path = gradethis
 	url = https://github.com/rstudio/gradethis
@@ -19,3 +13,9 @@
 	path = learnr
 	url = https://github.com/rstudio/learnr
 	registered = false
+[submodule "tidyquintro"]
+	path = tidyquintro
+	url = https://github.com/drmowinckels/tidyquintro
+[submodule "uiothemes"]
+	path = uiothemes
+	url = https://github.com/drmowinckels/uiothemes
