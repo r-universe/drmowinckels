@@ -5,6 +5,30 @@
 [submodule "colorhex"]
 	path = colorhex
 	url = https://github.com/drmowinckels/colorhex
+[submodule "ggseg"]
+	path = ggseg
+	url = https://github.com/ggsegverse/ggseg
+[submodule "ggseg.extra"]
+	path = ggseg.extra
+	url = https://github.com/ggsegverse/ggseg.extra
+[submodule "ggseg.formats"]
+	path = ggseg.formats
+	url = https://github.com/ggsegverse/ggseg.formats
+[submodule "ggseg.meshes"]
+	path = ggseg.meshes
+	url = https://github.com/ggsegverse/ggseg.meshes
+[submodule "ggseg3d"]
+	path = ggseg3d
+	url = https://github.com/ggsegverse/ggseg3d
+[submodule "meetupr"]
+	path = meetupr
+	url = https://github.com/ggsegverse/meetupr
+[submodule "nettskjemar"]
+	path = nettskjemar
+	url = https://github.com/capro-uio/nettskjemar
+[submodule "neuromapr"]
+	path = neuromapr
+	url = https://github.com/lcbc-uio/neuromapr
 [submodule "tidyquintro"]
 	path = tidyquintro
 	url = https://github.com/drmowinckels/tidyquintro
