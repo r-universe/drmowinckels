@@ -22,7 +22,7 @@
 	url = https://github.com/ggsegverse/ggseg3d
 [submodule "meetupr"]
 	path = meetupr
-	url = https://github.com/ggsegverse/meetupr
+	url = https://github.com/rladies/meetupr
 [submodule "nettskjemar"]
 	path = nettskjemar
 	url = https://github.com/capro-uio/nettskjemar
