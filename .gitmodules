@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/drmowinckels/drmowinckels.r-universe.dev
 	branch = HEAD
+[submodule "cloudflarer"]
+	path = cloudflarer
+	url = https://github.com/drmowinckels/cloudflarer
 [submodule "colorhex"]
 	path = colorhex
 	url = https://github.com/drmowinckels/colorhex
