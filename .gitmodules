@@ -32,6 +32,9 @@
 [submodule "neuromapr"]
 	path = neuromapr
 	url = https://github.com/lcbc-uio/neuromapr
+[submodule "rambutan"]
+	path = rambutan
+	url = https://github.com/drmowinckels/rambutan
 [submodule "tidyquintro"]
 	path = tidyquintro
 	url = https://github.com/drmowinckels/tidyquintro
